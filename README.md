@@ -82,6 +82,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [PyTorch](PyTorch-url)
 * [Pandas](Pandas-url)
 * [SciPy](SciPy-url)
+* [TenSEAL](TenSEAL-url)
 <!-- * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -263,3 +264,4 @@ Chen, H., Wang, C., Conomos, M.P., Stilp, A.M., Li, Z., Sofer, T., Szpiro, A.A.,
 [Pandas-url]: https://pandas.pydata.org/
 [SciPy]: https://scipy.org/images/logo.svg
 [SciPy-url]: https://scipy.org/
+[TenSEAL-url]: https://github.com/OpenMined/TenSEAL.git
