@@ -61,6 +61,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#citations">Citations</a></li>
   </ol>
 </details>
 
@@ -204,7 +205,9 @@ Project Link: [https://github.com/Li-Wentao/FedGMMAT.git](https://github.com/Li-
 
 <!-- Publications -->
 
-## Publications
+## Citations
+
+> Please cite the following publications
 
 Chen, H., Wang, C., Conomos, M.P., Stilp, A.M., Li, Z., Sofer, T., Szpiro, A.A., Chen, W., Brehm, J.M., Celedón, J.C. and Redline, S., ["Control for Population Structure and Relatedness for Binary Traits in Genetic Association Studies via Logistic Mixed Models"](https://pubmed.ncbi.nlm.nih.gov/27018471/), 98(4), pp.653-666.
 
