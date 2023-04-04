@@ -70,7 +70,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+__Welcome__ to the FedGMMAT GitHub repository!
+
+FedGMMAT is a privacy-preserving genome-wide association study (GWAS) algorithm that utilizes federated learning to protect the privacy of individuals' genetic data. This algorithm is based on the R package GMMAT, developed by Dr. Chen Han, and extends it to support federated learning.
+
+GWAS aims to identifying genetic variants that are associated with diseases and traits. However, the use of GWAS data raises concerns about privacy and confidentiality, as genetic data can be used to identify individuals. FedGMMAT addresses these concerns by enabling multiple parties to collaboratively analyze their GWAS data while keeping it private.
+
+We hope that FedGMMAT will be useful for researchers and practitioners who are interested in conducting privacy-preserving GWAS analyses. Please feel free to explore the repository, use the software, and contribute to its development.
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +137,9 @@ Install the dependency of the package environment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Quick start
 
+Please refer to the `FedGMMAT tutorial.ipynb` file. Example data is provided in directory `example_data`, the data are pulled from example data from R package _GMMAT_.
 
 <!-- USAGE EXAMPLES -->
 <!-- ## Usage
